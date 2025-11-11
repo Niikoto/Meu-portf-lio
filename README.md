@@ -1,2 +1,2 @@
-# Meu-portf-lio
+# Meu-portfólio
 Uma breve apresentação minha, de meus trabalhos e certificados.
