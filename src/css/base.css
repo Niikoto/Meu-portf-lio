@@ -1,0 +1,10 @@
+.perfil{
+    min-width: 50px;
+    max-width: 220px;
+    width: auto;
+}
+
+.img-fix {
+    height: 200px;
+    object-fit: cover;
+}
